@@ -8,6 +8,6 @@ Softvérová implementácia 3D skeneru cez Arduino
 </ol>
 <ul>
 <li> Pri formatovaní README možete používať HTML kód.</li>
-<li> Odkaz na <a type=blank href='https://github.com/torac0011/arduino-3d-scanner'>repozitórium</a>.</li>
-<li><a href='https://choosealicense.com/licenses/apache-2.0/'>Zvolená licencia</a> (bude sa dať upraviť)</li>
+<li> Odkaz na <a href="https://github.com/torac0011/arduino-3d-scanner" target="_top" >repozitórium</a>.</li>
+<li><a href='https://choosealicense.com/licenses/apache-2.0/' target="_blank" >Zvolená licencia</a> (bude sa dať upraviť)</li>
 </ul>
